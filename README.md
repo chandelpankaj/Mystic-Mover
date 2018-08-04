@@ -3,7 +3,7 @@
 This game is written in javascript and php.
 
 There are 12 levels in the game. The left side display your current score and diamonds and your current assets.
-In the main map you can find all the 12 levels. To play any level, just go to that level and press enter.
+In the main map you can find all the 12 levels. To play any level, just go to that level and press enter but to play any level the minimum red diamond requirement for that level must be fulfilled.
 
 <img src="Screenshots/Screenshot2.png" width="80%" height="80%">
 
